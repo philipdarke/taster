@@ -2,7 +2,7 @@
 
 [![PyPi](https://img.shields.io/pypi/v/taster)](https://pypi.org/project/taster)
 [![Build status](https://img.shields.io/github/workflow/status/philipdarke/taster/build.svg)](https://github.com/philipdarke/taster/actions/workflows/build.yml)
-[!Coverage](https://philipdarke.com/taster/assets/coverage-badge.svg)
+[!Coverage](https://philipdarke.com/taster/assets/coverage-badge.svg?dummy=8484744)
 [![License](https://img.shields.io/github/license/philipdarke/taster.svg)](https://github.com/philipdarke/taster/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6554375.svg)](https://doi.org/10.5281/zenodo.6554375)
 
