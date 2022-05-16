@@ -4,7 +4,7 @@
 [![Build status](https://img.shields.io/github/workflow/status/philipdarke/taster/build.svg)](https://github.com/philipdarke/taster/actions/workflows/build.yml)
 [!Coverage](https://philipdarke.com/taster/assets/coverage-badge.svg)
 [![License](https://img.shields.io/github/license/philipdarke/taster.svg)](https://github.com/philipdarke/taster/blob/main/LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx}.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6554375.svg)](https://doi.org/10.5281/zenodo.6554375)
 
 ## Installation
 
@@ -27,8 +27,8 @@ If you use this software, please cite it as below:
     version = { 0.1.0 },
     month = { 01 },
     year = { 2022 },
-    doi = { 10.5281/zenodo.xxxxxxx },
-    url = { https://doi.org/10.5281/zenodo.xxxxxxx },
+    doi = { 10.5281/zenodo.6554375 },
+    url = { https://doi.org/10.5281/zenodo.6554375 },
 }
 ```
 
